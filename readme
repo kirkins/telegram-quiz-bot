@@ -1,0 +1,19 @@
+# Quiz Bot for Telegram
+
+This relies on opentdb.com API.
+
+Bot must be admin in the group it is used in.
+
+`master` value in config sets the admin who can start games and skip them.
+
+## setup
+
+Update config.js.example values and re-name config.js
+
+## commands
+
+/quiz - starts game
+
+/repost - delete original quiz post and repost
+
+/skip - skip question only admin can use

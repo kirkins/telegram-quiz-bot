@@ -1,0 +1,5 @@
+module.exports = {
+  "telegramKey": "kjfldjalfdjalf-telegram-bot-token",
+  "telegramMaster": "358358989", // user ID who has admin commands
+  "group": -1001404923144
+}
